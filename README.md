@@ -8,7 +8,7 @@
 
 ### If you want to add other language you can change dest=...(ko to any other language inital two letter)
 
-# For translatebyvoice.py
+## For translatebyvoice.py
 ## you should install speechrecognition,Translator,gTTS and os
 ### make sure you have pyaudio otherwise this code will not run 
 
